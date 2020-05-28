@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SampleGridView", ".", "{69E26387-E55E-42FA-AA4A-0B426C51F03C}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
+		Debug.AspNetCompiler.VirtualPath = "/SampleGridView"
+		Debug.AspNetCompiler.PhysicalPath = "..\SampleGridView\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\SampleGridView\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/SampleGridView"
+		Release.AspNetCompiler.PhysicalPath = "..\SampleGridView\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\SampleGridView\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49197"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69E26387-E55E-42FA-AA4A-0B426C51F03C}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{69E26387-E55E-42FA-AA4A-0B426C51F03C}.Debug|.NET.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEF2CA5D-EC3B-4E5D-B97C-63082691C10C}
+	EndGlobalSection
+EndGlobal
